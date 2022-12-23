@@ -1,2 +1,2 @@
 # Cliff Code
-Features written in Squirrel for my CS:GO map called Cliff: https://steamcommunity.com/workshop/filedetails/?id=2813425251
+Features written in Squirrel for my CS:GO map «Cliff» — https://steamcommunity.com/workshop/filedetails/?id=2813425251
